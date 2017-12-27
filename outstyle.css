@@ -1,0 +1,92 @@
+body
+{
+	margin:0px;
+}
+.topimage
+{
+
+	background-image:url(picture/3.jpg);
+	width:500px;
+	height:300px;
+	background-size:500px 300px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+}
+.bottomimage
+{
+	width:1900px;
+	height:300px;
+	background-color:black;
+	position:center;
+}
+.fontformat
+{
+	font-size:80px;
+	color:white;
+	font-weight:bold;
+	width:1000px;
+	float:left;
+	margin:90px 0px;
+}
+.secondblock
+{
+	width:1400px;
+	height:400px;
+	margin:0px 60px;
+}
+.subblock
+{
+	width:400px;
+	height:400px;
+	background-color:#666666;
+	float:left;
+	margin:20px;
+	margin-top:30px;
+	box-shadow:2px 2px 3px #808080;
+}
+.subblock1
+{
+	width:400px;
+	height:400px;
+	background-color:#666666;
+	float:left;
+	margin:20px;
+	margin-left:60px;
+	margin-top:30px;
+	box-shadow:2px 2px 3px #808080;
+}
+li：hover
+{
+	background-color:#FFA500;
+}
+.subimage1
+{
+	background-image:url(picture/6.jpg);
+	width:350px;
+	height:200px;
+	background-size:cover;
+	background-position:center;
+	margin:25px;
+	border:0.5px white solid;
+}
+.subblockfont
+{
+	color:white;
+	font-family:MicroSoft YaHei;
+	font-size:30px;
+	float:left;
+	margin:30px 110px;
+}
+.subblockfontdevelopment
+{
+	color:white;
+	font-family:MicroSoft YaHei;
+	font-size:30px;
+	float:left;
+	margin:30px 110px;
+	line-height:300%;
+	font-weight:bold;
+	margin-top:60px;
+	margin-left:100px;
+}
